@@ -4,7 +4,7 @@ Companion material for my talk at [PyCon Sweden 2026](https://pretalx.com/pycon-
 
 The talk is about using Python on a Raspberry Pi to move electricity use away from the expensive hours: first a refrigerated game storage room, then the geothermal heat pump that heats our house. This repository holds the small scripts I used to fetch and plot prices and consumption for the slides.
 
-- **Slides:** [slides.pdf](slides.pdf) <!-- TODO: add the PDF to the repo, or change the link -->
+- **Slides:** [Ulrik_Pycon2026.pdf](Ulrik_Pycon2026.pdf)
 
 ## The projects from the talk
 
@@ -85,5 +85,5 @@ I am Ulrik Södergren, a freelance software developer and electronics engineer b
 At the moment I work as a consultant for [Luxbright](https://www.luxbright.com/), a Gothenburg company that develops and manufactures microfocus X-ray tubes and X-ray sources for industrial, medical and analytical use. There I develop algorithms and software for enhancing X-ray images and validating image quality, as well as a Python framework for controlling lab and production equipment. I also design X-ray equipment and the electronics around it, from PCBs for X-ray tube testing to prototype X-ray systems, vacuum systems and sensor integration.
 
 - LinkedIn: [linkedin.com/in/ulrik-sodergren](https://www.linkedin.com/in/ulrik-sodergren/)
-- OddTech: [oddtech.se](https://oddtech.se)
+- OddTech: [oddtech.se](https://oddtech.se), my company.
 - THoSE: [those.se](https://those.se), the consultant network I am a member of
