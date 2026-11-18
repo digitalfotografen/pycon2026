@@ -82,7 +82,7 @@ The Tibber scripts need a personal API token, which you create at [developer.tib
 
 I am Ulrik Södergren, a freelance software developer and electronics engineer based in Gråbo, outside Gothenburg. Through my own consulting company [OddTech](https://oddtech.se) I solve odd problems that need a mix of software, electronics and image processing.
 
-At the moment I work as a consultant for [Luxbright](https://www.luxbright.com/), a Gothenburg company that develops and manufactures microfocus X-ray tubes and X-ray sources for industrial, medical and analytical use. There I write Python software for X-ray systems and the hardware around them. <!-- TODO: adjust to what you want to say publicly -->
+At the moment I work as a consultant for [Luxbright](https://www.luxbright.com/), a Gothenburg company that develops and manufactures microfocus X-ray tubes and X-ray sources for industrial, medical and analytical use. There I develop algorithms and software for enhancing X-ray images and validating image quality, as well as a Python framework for controlling lab and production equipment. I also design X-ray equipment and the electronics around it, from PCBs for X-ray tube testing to prototype X-ray systems, vacuum systems and sensor integration.
 
 - LinkedIn: [linkedin.com/in/ulrik-sodergren](https://www.linkedin.com/in/ulrik-sodergren/)
 - OddTech: [oddtech.se](https://oddtech.se)
