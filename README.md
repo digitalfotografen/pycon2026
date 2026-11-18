@@ -86,4 +86,4 @@ At the moment I work as a consultant for [Luxbright](https://www.luxbright.com/)
 
 - LinkedIn: [linkedin.com/in/ulrik-sodergren](https://www.linkedin.com/in/ulrik-sodergren/)
 - OddTech: [oddtech.se](https://oddtech.se)
-- THoSE: [those.se](https://those.se)
+- THoSE: [those.se](https://those.se), the consultant network I am a member of
